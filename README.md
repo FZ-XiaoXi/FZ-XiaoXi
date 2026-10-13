@@ -25,9 +25,11 @@
 ---
 
 <div align="center">
-*“振叶以寻根，观澜而索源。”* —— 《文心雕龙·序志》
 
-*"Shake the leaves to seek the root; observe the waves to trace the source."* — *Wenxin Diaolong*
+<em>“振叶以寻根，观澜而索源。” —— 《文心雕龙·序志》</em>
+
+<em>"Shake the leaves to seek the root; observe the waves to trace the source." — Wenxin Diaolong</em>
+
 </div>
 
 ---
