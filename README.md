@@ -33,7 +33,13 @@
 </div>
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FZ-XiaoXi/FZ-XiaoXi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FZ-XiaoXi/FZ-XiaoXi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
+</picture>
 
+---
 <a id="about"></a>
 
 ## 🧑‍💻 关于我 / About Me
@@ -121,7 +127,7 @@ Beyond code, I love making physical things — 3D printing, laser cutting, CNC, 
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-D52B1E?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-F27E1F?style=for-the-badge&logo=autodesk&logoColor=white)
-![嘉立创EDA](https://img.shields.io/badge/%E5%98%89%E7%AB%8B%E5%88%9BEDA-2E8B57?style=for-the-badge)
+![LCEDA](https://img.shields.io/badge/LCEDA-2E8B57?style=for-the-badge)
 
 ### 🎨 视觉设计 / Visual Design
 
@@ -166,7 +172,7 @@ Beyond code, I love making physical things — 3D printing, laser cutting, CNC, 
 - 👁️ **Computer Vision** — Object detection & tracking, camera calibration, visual localization
 - 🦾 **Robot Kinematics** — Forward/inverse kinematics, trajectory planning, dynamics modeling
 - 📡 **Sensor Fusion** — Multi-source fusion and state estimation (IMU / Vision / Odometry)
-- 🎛️ **Robot Control** — Gimbal & chassis control, MPC, adaptive control
+- 🎛️ **Robot Control** — Gimbal & chassis control, PID, LQR, RL
 - 🖥️ **Robot Simulation** — Building and validating in Isaac Sim / Gazebo / MuJoCo
 - ⚡ **Embedded Control Algorithms** — Real-time control on STM32 / FPGA / Jetson
 
